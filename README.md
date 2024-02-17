@@ -32,8 +32,6 @@ When I study at school, I really like coding with my my friend about website, ap
 
 <a href="http://www.github.com/quidev2505"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quidev2505&stroke=84cc16&background=000000&ring=ffffff&fire=ffffff&currStreakNum=84cc16&currStreakLabel=ffffff&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="http://www.github.com/quidev2505"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=quidev2505&bg_color=000000&color=84cc16&line=ffffff&point=84cc16&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/quidev2505" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quidev2505&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
