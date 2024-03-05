@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is QuiDev2505
 ==================================================================================================================================
 
-Backend Developer
+Web Developer
 -----------------
 
 When I study at school, I really like coding with my my friend about website, app, game... But today I think code backend make me alone and a little funny 😄
