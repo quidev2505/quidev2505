@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -----------------
 
-When I study at school, I really like coding with my my friend about website, app, game... But today I think code backend make me alone and a little funny 😄
+When I study at school, I really like coding with my friend about website, app, game... But today I think code frontend & backend make me happy and funny 😄
 
-* 🌍  I'm based in Ho Chi Minh City
+* 🌍  I'm based in Ho Chi Minh City - District 9
 * ✉️  You can contact me at [quidev2505@gmail.com](mailto:quidev2505@gmail.com)
-* 🧠  I'm learning a new framework Nestjs, Library Prisma - ORM, Python Tkinter
+* 🧠  I'm learning a new framework NextJS, Nestjs, Library Prisma - ORM, Python Tkinter and Crawl Data Website
 * 🤝  I'm open to collaborating on some project about Lunar New Year (Bau Cua Multiplayer, Shake Phone To Get Lucky Money)
 * ⚡  I want to make friendship with other people around me 😋
 
